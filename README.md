@@ -1,2 +1,2 @@
 # jiaping-blog-pictures
-博客图床。
+This is where I store pictures from my personal blog :）
